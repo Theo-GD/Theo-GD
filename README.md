@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Theo-GD
-- 👀 I’m interested in aviation and software engineering.
-- 🌱 I’m currently learning flutter.
+- Flutter Developer
 
 - 📫 You can reach me at theo@theogreenfield.com
 
