@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Theo-GD
-- Flutter Developer
+- 💻Flutter Developer
 
 - 📫 You can reach me at theo@theogreenfield.com
 
