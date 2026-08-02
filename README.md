@@ -1,8 +1,7 @@
 - 💻Full Stack Solo Developer
-
-- Flutter
-- Python
-- Web
+  - Flutter
+  - Python
+  - Web
 
 - 📫 You can reach me at theo@theogreenfield.com
 
