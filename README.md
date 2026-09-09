@@ -6,7 +6,7 @@
 
 I'm here to solve my own problems. I enjoy designing, developing, and maintaining software solutions from concept to deployment.
 
-## 🛠️ Tech Stack
+## 🛠️ My main toolbox
 
 ### Mobile Development
 
@@ -32,11 +32,10 @@ I'm here to solve my own problems. I enjoy designing, developing, and maintainin
 * Mobile, web, and backend solutions to my problems
 * Independent project design, development, and deployment
 
-## 🌱 Currently Working On
+## 🌱 Currently Doing
 
 * Building cross-platform applications with Flutter
 * Developing scalable Python backends
-* Creating modern web apps with JavaScript and TypeScript
 
 ## 📫 Contact
 
