@@ -6,7 +6,7 @@
 
 I'm here to solve my own problems. I enjoy designing, developing, and maintaining software solutions from concept to deployment.
 
-## 🛠️ My main toolbox
+## 🛠️ My Primary Toolbox
 
 ### Mobile Development
 
