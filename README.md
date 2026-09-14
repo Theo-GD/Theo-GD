@@ -1,16 +1,17 @@
-## Hi there 👋
+I'm here to solve my own problems. I enjoy designing, developing, and maintaining software solutions from concept to deployment.
 
-<!--
-**Theo-GD/Theo-GD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Solo Developer** with **5+ years of experience** building applications across desktop, mobile, web.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Very good at privating github repos
+* Independent project design, development, and deployment
+
+
+
+Feel free to reach out:
+
+📧 **theo@theogreenfield.com**
+
+---
+
+⭐ If you find any of my very limited list of public facing projects interesting, consider giving them a star!
