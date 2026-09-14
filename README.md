@@ -1,11 +1,9 @@
 I'm here to solve my own problems. I enjoy designing, developing, and maintaining software solutions from concept to deployment.
 
-**Full Stack Solo Developer** with **5+ years of experience** building applications across desktop, mobile, and web.
-
 ## Highlights
 
-* Very good at privating GitHub repos
 * Independent project design, development, and deployment
+* Very good at privating GitHub repos
 
 ## Contact
 
