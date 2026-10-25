@@ -1,6 +1,6 @@
 I'm here to solve my own problems. I enjoy designing, developing, and maintaining software solutions from concept to deployment.
 
-## Highlights
+## Experience
 
 * Independent project design, development, and deployment
 * Very good at privating GitHub repos
