@@ -10,6 +10,7 @@ I'm here to solve my own problems. I enjoy designing, developing, and maintainin
 Feel free to reach out:
 
 📧 **[theo@theogreenfield.com](mailto:theo@theogreenfield.com)**
+🔗[My website](theogreenfield.com)
 
 ---
 
