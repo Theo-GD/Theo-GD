@@ -11,7 +11,7 @@ Feel free to reach out:
 
 📧 **[theo@theogreenfield.com](mailto:theo@theogreenfield.com)**
 
-🔗[**My website**](https://theogreenfield.com)
+🔗 **[My website](https://theogreenfield.com)**
 
 ---
 
